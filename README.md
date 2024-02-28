@@ -1,4 +1,4 @@
-## Node.js Authentication and Authorization API
+## Node.js Authentication and Authorization API 👩‍💻
 
 This project is a simple Node.js API for user registration, authentication, and authorization using Express, JWT, and MongoDB.
 
@@ -10,7 +10,7 @@ Before you begin, ensure you have the following installed:
 - npm
 - MongoDB
 
-## Installation
+## Installation ⚙️
 
 1. Clone the repository:
 
@@ -25,7 +25,7 @@ Before you begin, ensure you have the following installed:
    npm install
    \`\`\`
 
-3. Set up MongoDB:
+3. Set up MongoDB: 
 
    - Create a MongoDB Atlas account: [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
    - Create a new cluster and obtain the connection string.
